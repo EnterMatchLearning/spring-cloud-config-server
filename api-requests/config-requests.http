@@ -1,2 +1,5 @@
-###
+### limits-service
 GET {{host}}/limits-service/dev
+
+### currency-exchange-service
+GET {{host}}/currency-exchange-service/dev
